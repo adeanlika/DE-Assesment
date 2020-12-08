@@ -1,6 +1,6 @@
 # DE-Assesment
 
-DE-Assesment represent the submission for DE Technical Test, which each folder will represent the answer for every question that to be asked.
+DE-Assesment represent the submission for DE Technical Test, which each folder will represent the answer for every question that being asked.
 Please find the details below :
 
 **No1 Folder**
